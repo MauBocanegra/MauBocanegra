@@ -9,9 +9,10 @@ Mauro, but you can call me Mau :)
 ### What am I passionate about? 🔭❤️
 - ⚙️ IoT with Arduino to sense and react to the world
   - ESP32 & Sensors 
-- 🤖 Maker enthusiast with 3D printing to complement what I dream of
+- 🤖 Maker enthusiast with a lot of ideas and dreams
   - Blender & Fusion360 amateur
-  - With my own FDM and Resin printer I am unstoppable :P
+  - FDM & Resin printer to encase
+  - CNC for PCB prototyping.
 
 
 
