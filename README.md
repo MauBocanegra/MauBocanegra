@@ -14,6 +14,8 @@ Mauro, but you can call me Mau :)
   - FDM & Resin printer to encase
   - CNC for PCB prototyping.
 
+ ### [Download my CV](https://drive.google.com/file/d/1Udz8jFIpYqJoQkPW6XDs56E3vEYUKuW4/view?usp=drive_link) to check my full carrer progression
+
 
 
 <!--
